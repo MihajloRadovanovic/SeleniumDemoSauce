@@ -14,7 +14,8 @@ Login Tests
  Cart Tests
 - Add one item and check cart shows `1`
 - Add multiple items and verify the correct count
-- Remove items and make sure the cart is empty
+- Remove more items added and make sure the cart is empty
+- Remove one item and make sure the cart is empty
 
 
 
